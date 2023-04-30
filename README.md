@@ -1,5 +1,5 @@
 # Simple Calculator
-https://simplecalculator.vercel.app
+https://simplecalculator-mongopark.vercel.app
  is the link to the hosted page
 
 
